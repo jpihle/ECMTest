@@ -1,0 +1,1 @@
+ECMTestScript Versjon 1
